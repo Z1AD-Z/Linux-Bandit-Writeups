@@ -15,7 +15,7 @@ The OverTheWire website provides the following information to connect:
 - **Host:** `bandit.labs.overthewire.org`
 - **Port:** `2220`
 
-> 📷 **Screenshot:** `screenshots/given-credentials.png`
+![Given Credentials](../screenshots/given-credentials.png)
 
 ---
 
@@ -55,7 +55,7 @@ bandit0
 
 After successful authentication, I was logged into the Bandit Level 0 Linux environment.
 
-> 📷 **Screenshot:** `screenshots/firstlogin.png`
+![First Login](../screenshots/firstlogin.png)
 
 ---
 
