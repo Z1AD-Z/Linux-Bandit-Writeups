@@ -17,12 +17,12 @@ The goal of this repository is to improve my Linux skills while documenting each
 
 For each Bandit level, you'll find:
 
-- 📖 A brief explanation of the challenge
-- 🎯 The objective of the level
-- 💻 Commands used to solve it
-- 🧠 Explanation of each command
-- 📚 Linux concepts learned
-- ✅ Key takeaways
+-  A brief explanation of the challenge
+-  The objective of the level
+-  Commands used to solve it
+-  Explanation of each command
+-  Linux concepts learned
+-  Key takeaways
 
 > **Note:** Passwords are intentionally omitted to encourage learning and respect the spirit of the OverTheWire project.
 
